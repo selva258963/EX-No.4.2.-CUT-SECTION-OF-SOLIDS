@@ -42,6 +42,7 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+![SELVA 4 2 20kb](https://user-images.githubusercontent.com/121961701/212299719-d0c2a401-d5c9-4ec8-9160-695b701f07fc.jpg)
 
 ## RESULT:
 Thus, the cut section for solid model is created.
